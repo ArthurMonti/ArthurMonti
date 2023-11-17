@@ -4,4 +4,4 @@
 
 ## 📈 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=dark)](link_do_seu_perfil_no_github)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=dark)](https://github.com/ArthurMonti)https://github.com/ArthurMonti)
